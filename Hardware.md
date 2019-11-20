@@ -1,4 +1,4 @@
-This document outlines specifications for the major hardware components
+This document discusses the basic characteristics of the major hardware components of our imaging ultrasound system.
 
 ## Example Imaging Ultrasound Hardware Block Diagrams
 The links below show simplified block diagrams of typical medical ultrasound imaging machines. In many ways, our system will look very similar to these:
