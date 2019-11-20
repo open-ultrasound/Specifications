@@ -39,6 +39,7 @@ We have tentaviely selected the Xilinx Zynq UltraScale+ XCZU7EV Multi-Processor 
 + ARM Cortex-R5F dual-core real-time processor
 + 504k programmable logic cells
 + 1728 DSP slices
+
 ARM processors will handle the user-facing application interface and configuration of the transmit and recieve ICs while the FPGA logic cells will handle the massive amounts of data streamed from the ultrasound AFEs. Available digital signal processing slices may prove useful if we desire simle digital signal conditioning prior to transfer to the host PC.  
 
 To evaluate the MPSoC we have purchased the [ZCU106](https://www.xilinx.com/products/boards-and-kits/zcu106.html) evaluation board that, in addition to the MPSoC, includes:
