@@ -15,6 +15,8 @@ frame(Nframe).shot(Nshot).channel(Nchannel).tx.enable %is channel enabled
 
 frame(Nframe).shot(Nshot).channel(Nchannel).tx.levelSequence %2 = Vpp0, 1 = Vpp1, 0 = RTZ, -1 = Vnn1, -2 = Vnn1; e.g., [2 -2] would be  single-cycle square wave (Note we want to be able to do transmit-side beamforming; what timing resolution do we have on one pulse's firing relative to the others?)
 
+% What resolution do we have over the timing between channel firings?
+
 % What control, if any, do we have over the T/R switch settings?
 
 %% Receive Side:
