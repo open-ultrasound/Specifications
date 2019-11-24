@@ -52,4 +52,8 @@ To evaluate the MPSoC we have purchased the [ZCU106](https://www.xilinx.com/prod
 - SD card interface
 - Gigbit Ethernet
 - DisplayPort and HDMI (in case we want to do some visualizations)
+
+## The Open Image System
+
+![Open Image Block Diagram](OpenImageBlockDiagram.png "Open Image Block Diagram")
  
