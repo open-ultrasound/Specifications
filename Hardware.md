@@ -2,6 +2,8 @@ This document discusses the basic characteristics of the major hardware componen
 
 ## Example Imaging Ultrasound Hardware Block Diagrams
 
+![alt text](UltrasoundImagingBlockDiagram.png "Simplified Ultrasound Imaging System Block Diagram")
+
 The links below show simplified block diagrams of typical medical ultrasound imaging machines. In many ways, our system will look very similar to these:
 
 https://www.analog.com/en/applications/markets/healthcare-pavilion-home/imaging/medical-ultrasound.html
