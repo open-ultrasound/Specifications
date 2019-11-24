@@ -1,3 +1,4 @@
+# Imaging Ultrasound Hardware Basics
 This document discusses the basic characteristics of the major hardware components of our imaging ultrasound system.
 
 ## Example Imaging Ultrasound Hardware Block Diagrams
@@ -53,7 +54,7 @@ To evaluate the MPSoC we have purchased the [ZCU106](https://www.xilinx.com/prod
 - Gigbit Ethernet
 - DisplayPort and HDMI (in case we want to do some visualizations)
 
-## The Open Image System
+# The Open Image System
 
 ![Open Image Block Diagram](OpenImageBlockDiagram.png "Open Image Block Diagram")
  
