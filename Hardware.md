@@ -58,5 +58,7 @@ To evaluate the MPSoC we have purchased the [ZCU106](https://www.xilinx.com/prod
 
 # The Open Image System
 
+The figure below shows how we plan to integrate and control the core components described above into the initial Open Image prototype. 
+
 ![Open Image Block Diagram](OpenImageBlockDiagram.png "Open Image Block Diagram")
  
